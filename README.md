@@ -47,7 +47,7 @@ Designed and implemented a scoring system that rewards players for successfully 
 
 Handled different game states (e.g., menu, playing, game over) and transitions between them.
 
-Refactoring and Optimization:
+**Refactoring and Optimization:**
 
 Practiced refactoring code for improved readability and efficiency.
 Optimized performance to handle a larger number of game entities smoothly.
