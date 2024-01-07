@@ -16,29 +16,38 @@ Shooting an asteroid splits it into smaller pieces, which may be more difficult 
 The game gets progressively more challenging as the number and speed of asteroids increase.
 
 Skills Learned and Developed:
+
 Object-Oriented Programming (OOP):
-Design and implement classes for Spaceship, Asteroid, Bullet, and other game entities.
-Utilize concepts such as inheritance, encapsulation, and polymorphism to model the game elements.
+
+Designed and implemented classes for Spaceship, Asteroid, Bullet, and other game entities.
+Utilized concepts such as inheritance, encapsulation, and polymorphism to model the game elements.
 
 Graphics and User Interface:
-Use Java's graphics libraries (e.g., JavaFX and Swing) to create a visually appealing and interactive game window.
-Implement user input handling for spaceship movement and shooting.
+
+Used Java's graphics libraries (e.g., JavaFX and Swing) to create a visually appealing and interactive game window.
+Implemented user input handling for spaceship movement and shooting.
 
 Collision Detection:
-Learn how to detect collisions between different game entities, such as spaceships and asteroids or bullets and asteroids.
+
+Learned how to detect collisions between different game entities, such as spaceships and asteroids or bullets and asteroids.
 
 Game Loop:
-Implement a game loop to handle continuous updates and rendering of the game state.
+
+Implemented a game loop to handle continuous updates and rendering of the game state.
 
 Randomization:
-Use random number generation to create unpredictable movement patterns for asteroids.
+
+Used random number generation to create unpredictable movement patterns for asteroids.
 
 Scoring System:
-Design and implement a scoring system that rewards players for successfully destroying asteroids.
+
+Designed and implemented a scoring system that rewards players for successfully destroying asteroids.
 
 Game State Management:
-Handle different game states (e.g., menu, playing, game over) and transitions between them.
+
+Handled different game states (e.g., menu, playing, game over) and transitions between them.
 
 Refactoring and Optimization:
-Practice refactoring code for improved readability and efficiency.
-Optimize performance to handle a larger number of game entities smoothly.
+
+Practiced refactoring code for improved readability and efficiency.
+Optimized performance to handle a larger number of game entities smoothly.
