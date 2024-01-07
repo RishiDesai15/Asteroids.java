@@ -1,4 +1,4 @@
-Game Description:
+**Game Description:**
 
 Objective:
 The player controls a spaceship that must navigate through a field of asteroids and other space obstacles. The goal is to survive as long as possible by avoiding collisions with asteroids and shooting them to break them into smaller pieces.
@@ -10,7 +10,7 @@ Bullets: Fired by the spaceship to destroy asteroids.
 Score System: Points are awarded for each asteroid destroyed.
 
 
-Game Dynamics:
+**Game Dynamics:**
 The asteroids move in different directions and speeds, posing a challenge for the player.
 Shooting an asteroid splits it into smaller pieces, which may be more difficult to avoid.
 The game gets progressively more challenging as the number and speed of asteroids increase.
