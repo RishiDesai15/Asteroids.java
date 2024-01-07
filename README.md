@@ -1,4 +1,5 @@
 Game Description:
+
 Objective:
 The player controls a spaceship that must navigate through a field of asteroids and other space obstacles. The goal is to survive as long as possible by avoiding collisions with asteroids and shooting them to break them into smaller pieces.
 
